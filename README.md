@@ -52,3 +52,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:34A853&height=140&section=footer&text=Happy%20Coding!&fontColor=ffffff&fontSize=30&fontAlignY=40" />
 </p>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshit2807/Akshit2807/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
